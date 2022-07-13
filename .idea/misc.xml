@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SeekDeliverain/app/src/main/res/drawable/ic_center_reticle.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SeekDeliverain/app/src/main/res/drawable/ic_circle.xml" value="0.173" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SeekDeliverain/app/src/main/res/drawable/ic_circle_outline.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SeekDeliverain/app/src/main/res/drawable/ic_color_wheel.xml" value="0.173" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SeekDeliverain/app/src/main/res/drawable/ic_launcher_foreground_clear.xml" value="0.2315" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SeekDeliverain/app/src/main/res/drawable/ic_square.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SeekDeliverain/app/src/main/res/drawable/ic_switch_camera.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SeekDeliverain/app/src/main/res/drawable/ic_switch_video.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SeekDeliverain/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SeekDeliverain/app/src/main/res/layout/color_bar_dialog.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

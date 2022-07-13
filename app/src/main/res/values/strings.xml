@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SeekDeliverain</string>
+
+    <string name="capture">Capture</string>
+    <string name="info">About</string>
+    <string name="color_lut">Color LUT</string>
+    <string name="thermal_overlay">Overlay</string>
+</resources>
